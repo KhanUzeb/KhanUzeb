@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/45/11/65/451165a38e6e4a1d2f4f89fbc2c8d6ee.gif" width="800"/>
+</p>
 
-<!--
-**KhanUzeb/KhanUzeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌸 Uzeb Khan 🌸</h1>
+<h3 align="center">Engineering Student • Data Science Enthusiast • Anime Soul</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhanUzeb&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanUzeb&theme=tokyonight&hide_border=true" height="165"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhanUzeb&theme=tokyonight" />
+</p>
+
+---
+
+## ⏱️ WakaTime (Last 7 Days)
+<!-- Replace YOUR-WAKATIME-USERNAME with your actual WakaTime username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 👾 Visitor Count
+<p align="center">
+  <img src="https://count.getloli.com/get/@KhanUzeb?theme=rule34" />
+</p>
+
+---
+
+## 🌐 Get in Touch
+<p align="center">
+  <a href="mailto:uzebkhan898@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0c/8e/14/0c8e146d54f0cc0038f7ff7d7d7a2c8f.gif" width="400"/>
+</p>
+
+<p align="center">✨ _“Consistency is the ultimate genjutsu.”_ ✨</p>
