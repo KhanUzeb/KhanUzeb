@@ -20,11 +20,6 @@
 
 ---
 
-## ⏱️ WakaTime (Last 7 Days)
-<!-- Replace YOUR-WAKATIME-USERNAME with your actual WakaTime username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
