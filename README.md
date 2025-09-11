@@ -1,4 +1,6 @@
 <!-- Banner -->
+![gojo-gojo-annoyed](https://github.com/user-attachments/assets/f75e3434-4364-4acf-8b62-57cc0c73ee65)
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/45/11/65/451165a38e6e4a1d2f4f89fbc2c8d6ee.gif" width="800"/>
 </p>
