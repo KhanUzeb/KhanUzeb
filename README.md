@@ -31,9 +31,6 @@ _Learning:_ `React Native` `Detection/Segmentation`
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=KhanUzeb&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&cache_seconds=1800" />
-<img height="150" src="https://streak-stats.demolab.com/?user=KhanUzeb&theme=tokyonight&hide_border=true" />
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhanUzeb&theme=tokyo-night&hide_border=true&height=200)
 
 </div>
