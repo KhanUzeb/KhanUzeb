@@ -24,15 +24,15 @@ Building ML/DS systems. Writing clean code. Breaking and fixing fast.
 
 ### Stack
 
-`Python` `SQL` `ML/DL` `CV` `FastAPI` `Git` `Linux`  
+`Python` `SQL` `ML/DL` `CV` `FastAPI` `Git` `Linux` `C++` `Go`
 _Learning:_ `React Native` `Detection/Segmentation`
 
 ---
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=KhanUzeb&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=KhanUzeb&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=KhanUzeb&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true&cache_seconds=1800" />
+<img height="150" src="https://streak-stats.demolab.com/?user=KhanUzeb&theme=tokyonight&hide_border=true" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhanUzeb&theme=tokyo-night&hide_border=true&height=200)
 
@@ -42,6 +42,6 @@ _Learning:_ `React Native` `Detection/Segmentation`
 
 <div align="center">
   
-**Open to Internships** • [uzebkhan.dev@gmail.com](mailto:uzebkhan.dev@gmail.com)
+**Open to Internships** • [uzebkhan898@gmail.com](mailto:uzebkhan898@gmail.com)
 
 </div>
