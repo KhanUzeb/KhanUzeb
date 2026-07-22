@@ -1,12 +1,12 @@
 <div align="center">
-  
+
 <img src="./header.png" />
 
 # Uzeb Khan
 
-**CS (Data Science) • Delhi • 19**
+**AI Engineer • CS (Data Science) • Delhi**
 
-_Currently exploring Deep Learning & AI_
+*Building intelligent systems with LLMs, Retrieval, and Machine Learning.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-uzebkhan.vercel.app-6366f1?style=flat-square&logo=vercel)](https://uzebkhan.vercel.app/)
 [![Twitter](https://img.shields.io/badge/X-@X__Ibyte-000?style=flat-square&logo=x)](https://x.com/X_Ibyte)
@@ -18,15 +18,37 @@ _Currently exploring Deep Learning & AI_
 
 ---
 
-### What I Do
+## About
 
-Building ML/DS systems. Writing clean code. Breaking and fixing fast.
+I build AI systems that combine machine learning with modern LLM workflows.
 
-### Stack
+Current interests:
 
-`Python` `SQL` `ML/DL` `CV` `FastAPI` `Git` `Linux` `C++` `Go`
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- Deep Learning & Computer Vision
+- Inference Engineering
 
-**Learning:** `React Native` `Detection/Segmentation`
+---
+
+## Tech
+
+**Languages**
+
+`Python` `SQL` `C++` `Go`
+
+**AI**
+
+`PyTorch` `scikit-learn` `Transformers` `OpenCV`
+
+**Backend**
+
+`FastAPI` `PostgreSQL` `Redis`
+
+**Tools**
+
+`Git` `Linux` `Docker`
 
 ---
 
@@ -40,6 +62,12 @@ Building ML/DS systems. Writing clean code. Breaking and fixing fast.
 
 <div align="center">
 
-**Open to Internships** • **Portfolio:** https://uzebkhan.vercel.app • <a href="mailto:uzebkhan898@gmail.com">uzebkhan898@gmail.com</a>
+**Currently Building**
+
+Agentic AI • RAG • Multi-Agent Systems • AI Infrastructure
+
+<br><br>
+
+ **uzebkhan898@gmail.com** •  **https://uzebkhan.vercel.app**
 
 </div>
