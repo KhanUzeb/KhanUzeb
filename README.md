@@ -68,6 +68,8 @@ Agentic AI • RAG • Multi-Agent Systems • AI Infrastructure
 
 <br><br>
 
+Currently Looking for internships and opportunities 
+
  **uzebkhan898@gmail.com** •  **https://uzebkhan.vercel.app**
 
 </div>
