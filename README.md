@@ -4,7 +4,7 @@
 
 # Uzeb Khan
 
-**AI Engineer • CS (Data Science) • Delhi**
+**AI Engineer • CS (Data Science) • Delhi •20 **
 
 *Building intelligent systems with LLMs, Retrieval, and Machine Learning.*
 
