@@ -52,6 +52,6 @@ Currently looking for **Agentic AI / LLM Engineer** internships.
 
 <div align="center">
 
-**uzebkhan898@gmail.com** • **uzebkhan.vercel.app**
+**uzebkhan898@gmail.com** • 
 
 </div>
