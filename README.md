@@ -44,7 +44,7 @@ Currently looking for **Agentic AI / LLM Engineer** internships.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KhanUzeb&theme=tokyo-night&hide_border=true&height=200)
+![metrics](https://metrics.lecoq.io/KhanUzeb?template=classic)
 
 </div>
 
