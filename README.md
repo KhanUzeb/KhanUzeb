@@ -48,12 +48,6 @@ Open to **Agentic AI / LLM Engineer** roles & internships.
 
 </div>
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanUzeb&layout=compact&theme=tokyonight&bg_color=0d1117&border=4a2fbd&title_color=a78bfa&text_color=c9d1d9)
-
-</div>
-
 ---
 
 <div align="center">
