@@ -44,7 +44,13 @@ Open to **Agentic AI / LLM Engineer** roles & internships.
 
 <div align="center">
 
-![metrics](https://metrics.lecoq.io/KhanUzeb?template=classic)
+![GitHub Streak](https://streak-stats.demolab.com?user=KhanUzeb&theme=tokyonight&border=4a2fbd&ring=7c3aed&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanUzeb&layout=compact&theme=tokyonight&bg_color=0d1117&border=4a2fbd&title_color=a78bfa&text_color=c9d1d9)
 
 </div>
 
