@@ -29,15 +29,15 @@ I build AI systems that combine machine learning with modern LLM workflows — a
 - Deep learning & computer vision
 - Inference & LLM infrastructure
 
-Currently looking for **Agentic AI / LLM Engineer** internships.
+Open to **Agentic AI / LLM Engineer** roles & internships.
 
 ---
 
 ## Tech
 
-**Languages** `Python` `SQL` `C++` `Go`
-**AI/ML** `PyTorch` `scikit-learn` `Transformers` `OpenCV`
-**Backend** `FastAPI` `PostgreSQL` `Redis`
+**Languages** `Python` `SQL` `C++` `Go`  
+**AI/ML** `PyTorch` `scikit-learn` `Transformers` `OpenCV`  
+**Backend** `FastAPI` `PostgreSQL` `Redis`  
 **Tools** `Git` `Linux` `Docker`
 
 ---
@@ -51,5 +51,7 @@ Currently looking for **Agentic AI / LLM Engineer** internships.
 ---
 
 <div align="center">
+
+**Contact** • [uzebkhan898@gmail.com](mailto:uzebkhan898@gmail.com)
 
 </div>
